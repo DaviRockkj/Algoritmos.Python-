@@ -1,8 +1,9 @@
 print("### CALCULADORA PYTHON")
 
-def soma(num1, num2):
-    soma = num1 + num2
-    return soma
+def adicao(num1, num2):
+    adicao = num1 * num2
+    return adicao
 
-print("RESULTADO DA SOMA:", soma(16, 9))
+print("RESULTADO: ", adicao(16, 9))
+
     
